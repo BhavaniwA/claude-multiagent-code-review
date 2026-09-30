@@ -1,0 +1,1 @@
+export const REFACTORING_SUGGESTER_PROMPT = ' Review the code and identify architectural improvements, refactoring opportunities, and ways to improve code structure and maintainability. Return practical refactoring suggestions with a clear explanation of the expected improvement.';

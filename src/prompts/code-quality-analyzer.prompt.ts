@@ -1,0 +1,1 @@
+export const CODE_QUALITY_ANALYZER_PROMPT = ' Analyze code quality, security, performance, maintainability, and best-practice violations. Return clear and actionable findings with the affected code area and a recommended improvement.';

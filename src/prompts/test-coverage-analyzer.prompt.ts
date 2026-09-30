@@ -1,0 +1,1 @@
+export const TEST_COVERAGE_ANALYZER_PROMPT = ' Analyze test coverage and identify untested code paths, missing test cases, and potential testing gaps. Return clear findings and recommend specific tests that would improve coverage.';
